@@ -100,10 +100,11 @@ When you open a website:
 
 ---
 
-## Key Takeaways:
-- Networks connect devices to share data.
-- The OSI Model helps us understand how networks function.
-- HTTP is the backbone of web browsing and client-server communication.
+## In Conculusion:
+-Networks are the infrastructure for everything on the internet.
 
+-HTTP is the gateway that makes websites work.
+
+-Understanding these things is important for anyone interested in technology or programming.
 ---
 
